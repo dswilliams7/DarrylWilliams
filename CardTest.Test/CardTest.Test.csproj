@@ -76,8 +76,6 @@
     <Compile Include="CaseOne.cs" />
     <Compile Include="CaseThree.cs" />
     <Compile Include="CaseTwo.cs" />
-    <Compile Include="InterestCalculator.cs" />
-    <Compile Include="InterestPerWallet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
