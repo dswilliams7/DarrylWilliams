@@ -24,3 +24,4 @@ C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.c
 C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.execution.desktop.xml
 C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\obj\Debug\ClearentUnitTest.dll
 C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\obj\Debug\ClearentUnitTest.pdb
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\obj\Debug\ClearentUnitTest.csprojResolveAssemblyReference.cache
