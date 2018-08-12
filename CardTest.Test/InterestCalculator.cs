@@ -3,17 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Net.Mail;
-using System.Web;
-using System.Configuration;
-using System.IO;
-using System.Security.Cryptography;
 
-namespace ClearentUnitTest
+namespace CardTest.Test
 {
-    public class InterestCalculator
+    class InterestCalculator
     {
-        public static double CalculateTotalInterest(int timeInMonths, double cardBalance, string cardType)
+        public double CalculateTotalInterest(int timeInMonths, double cardBalance, string cardType)
         {
             double interestRate = 0;
             switch (cardType)

@@ -11,3 +11,16 @@ C:\Web Projects\ClearentUnitTest\ClearentUnitTest\bin\Debug\xunit.execution.desk
 C:\Web Projects\ClearentUnitTest\ClearentUnitTest\obj\Debug\ClearentUnitTest.dll
 C:\Web Projects\ClearentUnitTest\ClearentUnitTest\obj\Debug\ClearentUnitTest.pdb
 C:\Web Projects\ClearentUnitTest\ClearentUnitTest\bin\Debug\NuGet.Core.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\ClearentUnitTest.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\ClearentUnitTest.pdb
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\NuGet.Core.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.abstractions.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.assert.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.core.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.execution.desktop.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.abstractions.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.assert.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.core.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\bin\Debug\xunit.execution.desktop.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\obj\Debug\ClearentUnitTest.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\ClearentUnitTest\obj\Debug\ClearentUnitTest.pdb

@@ -14,3 +14,19 @@ C:\Web Projects\ClearentUnitTest\CardTest.Test\bin\Debug\xunit.assert.dll
 C:\Web Projects\ClearentUnitTest\CardTest.Test\bin\Debug\xunit.execution.desktop.dll
 C:\Web Projects\ClearentUnitTest\CardTest.Test\bin\Debug\xunit.assert.xml
 C:\Web Projects\ClearentUnitTest\CardTest.Test\bin\Debug\xunit.execution.desktop.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\obj\Debug\CardTest.Test.csprojResolveAssemblyReference.cache
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\obj\Debug\CardTest.Test.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\obj\Debug\CardTest.Test.pdb
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\CardTest.Test.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\CardTest.Test.pdb
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\ClearentUnitTest.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.abstractions.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.assert.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.core.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.execution.desktop.dll
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\ClearentUnitTest.pdb
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.abstractions.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.assert.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.core.xml
+C:\Users\williams\Source\Repos\DarrylWilliams\CardTest.Test\bin\Debug\xunit.execution.desktop.xml
